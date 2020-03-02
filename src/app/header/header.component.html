@@ -1,0 +1,23 @@
+<header (window:resize)="onResize($event)" [ngClass]="{'h100': isMobileMode}">
+
+                <div class="container">
+
+                                <div class="header-content">
+
+                                                <a class="logo" (click)="goToWelcome()">lubaib gazir</a>
+
+                                                <nav class="navigation-menu" [ngClass]="{'mobile-menu': isMobileMode}" (click)="triggerMobileMenu()">
+
+                                                                <a routerLink="/welcome" routerLinkActive="active">welcome</a>
+
+                                                                <a routerLink="/work" routerLinkActive="active">work</a>
+
+                                                                <a routerLink="/skills" routerLinkActive="active">skills</a>
+
+                                                </nav>
+
+                                </div>
+
+                </div>
+
+</header>

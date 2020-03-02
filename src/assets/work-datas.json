@@ -1,0 +1,310 @@
+[
+   {
+
+      "id":"002",
+
+      "imageSrc":"assets/img/work/icare.jpg",
+
+      "title":"iCare Life",
+
+      "role":"HTML&CSS, Angular JS; Responsive",
+
+      "url":"https://www.icare.life/#/landing"
+
+   },
+
+   {
+
+      "id":"003",
+
+      "imageSrc":"assets/img/work/meta.jpg",
+
+      "title":"Meta",
+
+      "role":"HTML&CSS, Javascript; Responsive",
+
+      "url":"http://meta.staging.zyferdigital.com/"
+
+   },
+
+   {
+
+      "id":"004",
+
+      "imageSrc":"assets/img/work/xlab.jpg",
+
+      "title":"Exchange Lab",
+
+      "role":"HTML&CSS, Javascript",
+
+      "url":"http://xlab.staging.zyferdigital.com/"
+
+   },
+
+   {
+
+      "id":"005",
+
+      "imageSrc":"assets/img/work/acg.jpg",
+
+      "title":"The American College of Greece",
+
+      "role":"HTML&CSS, Javascript",
+
+      "url":"http://www.acg.edu/"
+
+   },
+
+   {
+
+      "id":"006",
+
+      "imageSrc":"assets/img/work/frances.jpg",
+
+      "title":"Frances Miller",
+
+      "role":"Layout designing; HTML&CSS, Javascript; Responsive",
+
+      "url":"http://www.oakvillecounsellingservices.com/"
+
+   },
+
+   {
+
+      "id":"007",
+
+      "imageSrc":"assets/img/work/caledon.jpg",
+
+      "title":"Caledon Ski Club",
+
+      "role":"Layout designing; HTML&CSS, Javascript; Responsive",
+
+      "url":"http://caledonskiclub.com/"
+
+   },
+
+   {
+
+      "id":"008",
+
+      "imageSrc":"assets/img/work/jvs.jpg",
+
+      "title":"JVS Toronto",
+
+      "role":"HTML&CSS, Javascript; Responsive",
+
+      "url":"http://jvs.staging.zyferdigital.com/"
+
+   },
+
+   {
+
+      "id":"009",
+
+      "imageSrc":"assets/img/work/mpb.jpg",
+
+      "title":"My Picture Book",
+
+      "role":"HTML&CSS, Javascript",
+
+      "url":"http://www.mypicturebook.ca/"
+
+   },
+
+   {
+
+      "id":"010",
+
+      "imageSrc":"assets/img/work/sweetgrassspa.jpg",
+
+      "title":"Sweetgrass Spa",
+
+      "role":"HTML&CSS, Javascript; Responsive",
+
+      "url":"http://sweetgrassspa.ca/"
+
+   },
+
+   {
+
+      "id":"011",
+
+      "imageSrc":"assets/img/work/yesill.jpg",
+
+      "title":"Yesillbill",
+
+      "role":"HTML&CSS, Javascript",
+
+      "url":"http://test.panzertechnologies.com/designs/yesilbill/"
+
+   },
+
+   {
+
+      "id":"012",
+
+      "imageSrc":"assets/img/work/abs.jpg",
+
+      "title":"ABS Technologies",
+
+      "role":"HTML&CSS, Javascript",
+
+      "url":"http://www.abstechnologies.net/"
+
+   },
+
+   {
+
+      "id":"013",
+
+      "imageSrc":"assets/img/work/alun.jpg",
+
+      "title":"Alun Evans",
+
+      "role":"HTML&CSS, Javascript",
+
+      "url":"http://www.alunevans.com/"
+
+  },
+
+   {
+
+      "id":"014",
+
+      "imageSrc":"assets/img/work/aot.jpg",
+
+      "title":"Accelerated Oil Technologies",
+
+      "role":"HTML&CSS, Javascript",
+
+      "url":"http://www.acceleratedoil.com/"
+
+   },
+
+   {
+
+      "id":"015",
+
+      "imageSrc":"assets/img/work/cafeine.jpg",
+
+      "title":"Cafeine",
+
+      "role":"HTML&CSS, Javascript",
+
+      "url":"http://cafeine.in/"
+
+   },
+
+   {
+
+      "id":"016",
+
+      "imageSrc":"assets/img/work/handc.jpg",
+
+      "title":"Home & Cottages",
+
+      "role":"Responsive for iphone",
+
+      "url":"http://homesandcottages.com/consumer/"
+
+   },
+
+   {
+
+      "id":"017",
+
+      "imageSrc":"assets/img/work/panzer_healthcare.jpg",
+
+      "title":"Panzer Healthcare",
+
+      "role":"HTML&CSS, Javascript",
+
+      "url":"http://www.panzerhealthcare.com/"
+
+   },
+
+   {
+
+      "id":"018",
+
+      "imageSrc":"assets/img/work/ruche.jpg",
+
+      "title":"Studios Ruche",
+
+      "role":"HTML&CSS, Javascript",
+
+      "url":"http://studios-ruche.com/"
+
+   },
+
+   {
+
+      "id":"019",
+
+      "imageSrc":"assets/img/work/saturn.jpg",
+
+      "title":"Saturn Scale Systems Inc",
+
+      "role":"Layout designing; HTML&CSS, Javascript",
+
+      "url":"http://www.saturnscale.com/"
+
+   },
+
+   {
+
+      "id":"020",
+
+      "imageSrc":"assets/img/work/square.jpg",
+
+      "title":"Out of the Square Experience",
+
+      "role":"HTML&CSS, Javascript",
+
+      "url":"http://www.outofthesquareexperience.com.au/"
+
+   },
+
+   {
+
+      "id":"021",
+
+      "imageSrc":"assets/img/work/valors.jpg",
+
+      "title":"Valors Inc",
+
+      "role":"Layout designing; HTML&CSS, Javascript",
+
+      "url":"http://www.valorsinc.com/"
+
+   },
+
+   {
+
+      "id":"022",
+
+      "imageSrc":"assets/img/work/sunview.jpg",
+
+      "title":"Sunview Patio Doors",
+
+      "role":"HTML&CSS, Javascript",
+
+      "url":"http://www.sunviewdoors.com/"
+
+   },
+
+   {
+
+      "id":"023",
+
+      "imageSrc":"assets/img/work/exceltax.jpg",
+
+      "title":"Excel Tax",
+
+      "role":"Layout designing; HTML&CSS",
+
+      "url":"http://www.exceltaxservice.ca/"
+
+   }
+
+]

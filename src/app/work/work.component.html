@@ -1,0 +1,37 @@
+<section class="view-section" id="work">
+
+                <div class="container">
+
+                                <h1 class="section-head">Work</h1>
+
+                                <ul class="work-items">
+
+                                                <li *ngFor="let item of workDatas" [routerLink]="['/work', item.id]" >
+
+                                                                <img alt="" src="{{item.imageSrc}}"/>
+
+                                                                <div class="work-item-desc">
+
+                                                                                <span class="work-item-title">{{item.title}}</span>
+
+                                                                </div>
+
+                                                </li>
+
+                                </ul>
+
+                </div>
+
+                <!-- <div class="iconPrev"><i class="iconFa"></i></div>
+
+                <div class="iconNxt"><i class="iconFa"></i></div> -->
+
+</section>
+
+ 
+
+<div [@animateWorkDetailRoute]="oLet.isActivated ? oLet.activatedRoute : ''" >
+
+                <router-outlet #oLet="outlet"></router-outlet>
+
+</div>
