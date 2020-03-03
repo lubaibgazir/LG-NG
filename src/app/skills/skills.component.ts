@@ -34,9 +34,9 @@ export class SkillsComponent implements OnInit {
 
                                                 'title' : 'Angular',
 
-                                                'imgSrc' : 'assets/img/skills/angularjs.jpg',
+                                                'imgSrc' : 'assets/img/skills/angular.jpg',
 
-                                                'strength' : '50%'
+                                                'strength' : '65%'
 
                                 },
 
@@ -46,7 +46,7 @@ export class SkillsComponent implements OnInit {
 
                                                 'imgSrc' : 'assets/img/skills/js.jpg',
 
-                                                'strength' : '75%'
+                                                'strength' : '70%'
 
                                 },
 
@@ -66,7 +66,7 @@ export class SkillsComponent implements OnInit {
 
                                                 'imgSrc' : 'assets/img/skills/photoshop.jpg',
 
-                                                'strength' : '95%'
+                                                'strength' : '98%'
 
                                 }
 
